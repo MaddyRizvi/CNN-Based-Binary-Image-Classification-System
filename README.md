@@ -3,7 +3,7 @@
 
 ## 📌 Summary
 
-This project implements a Convolutional Neural Network (CNN) for binary image classification using a dataset of animal images (dogs vs. cats). The goal is to train a deep learning model that can accurately classify images into one of two categories using supervised learning techniques in computer vision.
+This project implements a Convolutional Neural Network (CNN) for binary image classification using a dataset of **10,000** animal images (dogs vs. cats). The goal is to train a deep learning model that can accurately classify images into one of two categories using supervised learning techniques in computer vision.
 
 ---
 
