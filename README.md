@@ -7,6 +7,11 @@ This project implements a Convolutional Neural Network (CNN) for binary image cl
 
 ---
 
+## Model Performance
+
+- **Training Accuracy:** 89.7%
+- **Validation Accuracy:** 79.1%
+
 ## 📁 Dataset
 
 - The dataset used consists of labeled images of **dogs** and **cats**.
