@@ -8,7 +8,7 @@ This project implements a Convolutional Neural Network (CNN) for binary image cl
 ---
 
 ## Model Performance
-
+   Given below is how model performed
 - **Training Accuracy:** 89.7%
 - **Validation Accuracy:** 79.1%
 
