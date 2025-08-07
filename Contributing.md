@@ -38,7 +38,7 @@ You can help improve this project in several ways:
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/your-username/CNN-Based-Binary-Image-Classification-System.git
+   git clone https://github.com/MaddyRizvi/CNN-Based-Binary-Image-Classification-System.git
    cd CNN-Based-Binary-Image-Classification-System
    ```
 
